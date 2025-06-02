@@ -2,21 +2,20 @@
 
 Hi, I'm Kolton! Welcome to my cybersecurity project space.
 
-I love cybersecurity because it lets me dive into tough challenges and build real, hands-on solutions to make things more secure. It's all about making digital systems stronger and safer.
+For me, cybersecurity isn't just a field; it's a deep passion where I get to unravel complex challenges through practical, hands-on projects.  I'm always looking for ways to strengthen security operations and processes. I invite you to explore my repositories and see the dedication I've poured into this work. It's been a truly rewarding journey, and I'm genuinely keen to share it with you!
 
 This portfolio shows off what I've been working on. Take a look around and see how I put cybersecurity ideas into action!
 
 ---
 
-## 🔍 Finding & Fixing Security Weaknesses
+## 🔍 Vulnerability Management Projects
 
 Here's how I work to find and fix security holes, making systems resilient:
 
 -   **[Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)**: This project shows how I build and run a complete program to manage vulnerabilities—from finding them to making sure they're patched up.
 
-## 🕵️‍♂️ Hunting Down Cyber Threats
+## 🕵️‍♂️ Threat Hunting and Security Operations
 
-I also love tracking down sneaky cyber threats before they cause trouble:
 
 -   **[Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**: This is a hands-on example where I investigated suspicious network activity, specifically how to detect and analyze hidden Tor browser usage to stop potential attacks.
 
