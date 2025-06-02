@@ -4,7 +4,7 @@ Hi, I'm Kolton! Welcome to my cybersecurity project space.
 
 For me, cybersecurity isn't just a field; it's a deep passion where I get to unravel complex challenges through practical, hands-on projects.  I'm always looking for ways to strengthen security operations and processes. I invite you to explore my repositories and see the dedication I've poured into this work. It's been a truly rewarding journey, and I'm genuinely keen to share it with you!
 
-This portfolio shows off what I've been working on. Take a look around and see how I put cybersecurity ideas into action!
+This portfolio shows off what I've been working on. Take a look around and see how I put cybersecurity ideas into action.
 
 ---
 
