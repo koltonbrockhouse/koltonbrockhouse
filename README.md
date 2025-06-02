@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/kolton-brockhouse-08b552158/">Kolton Brockhouse</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/kolton-brockhouse-08b552158/">Kolton Brockhouse</a>'s Cybersecurity Project Portfolio 🔐
 
 For me, cybersecurity isn't just a field; it's a deep passion where I get to unravel complex challenges through practical, hands-on projects.  I'm always looking for ways to strengthen security operations and processes. I invite you to explore my repositories and see the dedication I've poured into this work. It's been a truly rewarding journey, and I'm genuinely keen to share it with you!
 
