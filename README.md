@@ -10,8 +10,6 @@ This portfolio shows off what I've been working on. Take a look around and see h
 
 ## 🔍 Vulnerability Management Projects
 
-Here's how I work to find and fix security holes, making systems resilient:
-
 -   **[Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)**
 
 ## 🕵️‍♂️ Threat Hunting and Security Operations
