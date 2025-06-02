@@ -10,7 +10,7 @@ For me, cybersecurity isn't just a field; it's a deep passion where I get to unr
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[WIP](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**
+- **[Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**
 
 <hr/>
 
