@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
-![image](https://github.com/user-attachments/assets/707ee106-ba15-459b-9e25-6dca4f92eacc)
+
 
 <hr/>
 
