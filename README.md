@@ -12,15 +12,13 @@ This portfolio shows off what I've been working on. Take a look around and see h
 
 Here's how I work to find and fix security holes, making systems resilient:
 
--   **Vulnerability Management Program Implementation**: This project shows how I build and run a complete program to manage vulnerabilities—from finding them to making sure they're patched up.
-    -   🔗 [Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)
+-   **[Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)**: This project shows how I build and run a complete program to manage vulnerabilities—from finding them to making sure they're patched up.
 
 ## 🕵️‍♂️ Hunting Down Cyber Threats
 
 I also love tracking down sneaky cyber threats before they cause trouble:
 
--   **Threat Hunting Scenario (TOR Browser)**: This is a hands-on example where I investigated suspicious network activity, specifically how to detect and analyze hidden Tor browser usage to stop potential attacks.
-    -   🔗 [Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)
+-   **[Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**: This is a hands-on example where I investigated suspicious network activity, specifically how to detect and analyze hidden Tor browser usage to stop potential attacks.
 
 <hr/>
 
@@ -28,4 +26,6 @@ I also love tracking down sneaky cyber threats before they cause trouble:
 
 I'm always keen to chat about cybersecurity, new ideas, or career opportunities. Feel free to reach out to me on LinkedIn!
 
-[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://linkedin.com/in/kolton-brockhouse-08b552158/)
+<a href="https://linkedin.com/in/kolton-brockhouse-08b552158/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Profile" width="32px">
+</a>
