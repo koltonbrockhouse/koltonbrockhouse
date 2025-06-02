@@ -12,13 +12,12 @@ This portfolio shows off what I've been working on. Take a look around and see h
 
 Here's how I work to find and fix security holes, making systems resilient:
 
--   **[Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)**: This project shows how I build and run a complete program to manage vulnerabilities—from finding them to making sure they're patched up.
+-   **[Vulnerability Management Program Implementation](https://github.com/koltonbrockhouse/vulnerability-management-program)**
 
 ## 🕵️‍♂️ Threat Hunting and Security Operations
 
 
--   **[Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**: This is a hands-on example where I investigated suspicious network activity, specifically how to detect and analyze hidden Tor browser usage to stop potential attacks.
-
+-   **[Threat Hunting Scenario (TOR Browser)](https://github.com/koltonbrockhouse/threat-hunting-senario-tor)**
 <hr/>
 
 ## 👋 Let's Connect!
