@@ -26,6 +26,8 @@ I also love tracking down sneaky cyber threats before they cause trouble:
 
 I'm always keen to chat about cybersecurity, new ideas, or career opportunities. Feel free to reach out to me on LinkedIn!
 
-<a href="https://linkedin.com/in/kolton-brockhouse-08b552158/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Profile" width="40px" align="middle">
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/kolton-brockhouse-08b552158/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/48px-LinkedIn_logo_initials.png" alt="LinkedIn Profile" width="48px">
+  </a>
+</p>
