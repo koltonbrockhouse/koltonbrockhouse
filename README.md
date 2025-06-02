@@ -1,4 +1,4 @@
-# Kolton Brockhouse: Securing the Digital World 🌎
+# Kolton Brockhouse's Portfolio
 
 Hi, I'm Kolton! Welcome to my cybersecurity project space.
 
