@@ -24,6 +24,6 @@ Explore scenarios and tools for active defense and operational security:
 
 I'm always keen to discuss cybersecurity, potential collaborations, or new opportunities. Feel free to connect with me on LinkedIn!
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+
 
 [linkedin]: https://linkedin.com/in/kolton-brockhouse-08b552158/
