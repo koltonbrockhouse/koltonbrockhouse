@@ -17,7 +17,7 @@ For me, cybersecurity isn't just a field; it's a deep passion where I get to unr
 ## 🤳 Connect With Me On LinkedIn!
 
 
-[<img align="middle" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="middle" alt="___________ | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
