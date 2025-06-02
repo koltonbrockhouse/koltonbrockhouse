@@ -11,6 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
+
+<hr/>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [linkedin]: https://linkedin.com/in/___________
 
 
-<hr/>
+
 
 
 
